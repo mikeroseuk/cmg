@@ -489,6 +489,15 @@ h6,
   font-size: 80px;
   color: #2b0680;
 }
+#header1-0 .mbr-section-title {
+  color: #ffffff;
+}
+#header1-0 .mbr-section-lead {
+  color: #efefef;
+}
+#header1-0 .mbr-section-lead SPAN {
+  color: #efefef;
+}
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
   text-align: center;
