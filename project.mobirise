@@ -278,7 +278,10 @@
               "text-align": "center"
             },
             "SMALL": {
-              "font-size": "25px"
+              "font-size": "20px"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_name": "header3",
@@ -290,7 +293,7 @@
             "showMeta": true
           },
           "title": "Our multi-talented local award-winning teams",
-          "meta": "Ready to start working on your next project"
+          "meta": "Ready to start working on your next project<br><br>"
         },
         {
           "_name": "features3",
@@ -344,7 +347,7 @@
           },
           "title1": "Newspapers",
           "subtitle1": "Over 8.5 million a year",
-          "caption1": "Eight local newspapers every week<br>serving the communities of <br>Sefton and West Lancashire",
+          "caption1": "Eight local newspapers every week&nbsp;serving the communities of &nbsp;Sefton and West Lancashire",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -360,7 +363,7 @@
           },
           "title2": "Magazines",
           "subtitle2": "In print and online",
-          "caption2": "We have a talent for producing successful<br>digital and print publications for <br>both our clients and ourselves",
+          "caption2": "We have a talent for producing successful&nbsp;digital and print publications for &nbsp;both our clients and ourselves",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -376,7 +379,7 @@
           },
           "title3": "Websites",
           "subtitle3": "Design and hosting packages",
-          "caption3": "From landing pages to database driven <br>environments, both with and without <br>e-commerce options",
+          "caption3": "From landing pages to database driven &nbsp;environments, both with and without &nbsp;e-commerce options",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -392,7 +395,7 @@
           },
           "title4": "Design &amp; Print",
           "subtitle4": "Both creative and competitive",
-          "caption4": "From flyers and brochures<br>to point-of-sale materials<br>and corporate identity packages",
+          "caption4": "From flyers and brochures&nbsp;to point-of-sale materials&nbsp;and corporate identity packages",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -408,7 +411,7 @@
           },
           "title5": "Distribution",
           "subtitle5": "Unparalleled door to door deliveries",
-          "caption5": "Over 800 foot soldiers delivering<br>to more than 160,000 homes<br>every week",
+          "caption5": "Over 800 foot soldiers delivering&nbsp;to more than 160,000 homes&nbsp;every week",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
