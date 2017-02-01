@@ -16,10 +16,10 @@
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "textFont": "Lora",
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       }
     },
     "scrollAnimation": "true",
@@ -520,8 +520,8 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgImage": "@PROJECT_PATH@/assets/images/multi%20dot%20block%20graphic-2000x2108.png",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
