@@ -363,7 +363,7 @@
           },
           "title2": "Magazines",
           "subtitle2": "In print and online",
-          "caption2": "We have a talent for producing successful&nbsp;digital and print publications for &nbsp;both our clients and ourselves",
+          "caption2": "We have a talent for producing<br>successful&nbsp;digital and print publications for both our clients and ourselves",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -451,7 +451,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<br>We’re on Lord Street",
+          "title": "<br><br><br>We’re on <br>Lord Street",
           "text": "<br>Southport’s famous shopping boulevard<br>that inspired the design of modern Paris",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -521,7 +521,7 @@
           "form": {
             "action": "mike.rose@champnews.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling your enquiry. We will get back to you as soon as possible."
             },
             "fields": {
               "name": {
