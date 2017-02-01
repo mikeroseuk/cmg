@@ -275,7 +275,7 @@
               }
             ],
             "fullScreen": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "showBullets": true
           },
           "_anchor": "slider3-0",
@@ -287,10 +287,12 @@
               "text-align": "center"
             },
             "SMALL": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#8c8c8c"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#2b0680"
             }
           },
           "_name": "header3",
@@ -308,10 +310,12 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "color": "#2b0680"
             },
             "H5": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#8c8c8c"
             },
             "P": {
               "font-family": "'Lora', serif",
@@ -357,7 +361,7 @@
           "title1": "Newspapers",
           "subtitle1": "Over 8.5 million a year",
           "caption1": "Eight local newspapers every week&nbsp;<br>serving the communities of <br>Sefton and West Lancashire",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/magazine-600x399-33.jpg",
@@ -373,7 +377,7 @@
           "title2": "Magazines",
           "subtitle2": "In print and online",
           "caption2": "We have a talent for producing<br>successful&nbsp;digital and print publications for both our clients and ourselves",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/website-600x399-63.jpg",
@@ -389,7 +393,7 @@
           "title3": "Websites",
           "subtitle3": "Design and hosting packages",
           "caption3": "From landing pages to database driven &nbsp;environments, both with and without <br>e-commerce options",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/design-600x399-85.jpg",
@@ -405,7 +409,7 @@
           "title4": "Design &amp; Print",
           "subtitle4": "Both creative and competitive",
           "caption4": "From flyers and brochures&nbsp;to <br>point-of-sale materials&nbsp;and corporate identity packages",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/distribution-600x410-23.jpg",
@@ -421,7 +425,7 @@
           "title5": "Distribution",
           "subtitle5": "Unparalleled door to door deliveries",
           "caption5": "Over 800 foot soldiers delivering<br>to more than 160,000 homes<br>every week",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -480,9 +484,9 @@
             "paddingBottom": "3",
             "bgColor": "#000000"
           },
-          "text1": "<p>It's a little known fact that<a href=\"https://en.wikipedia.org/wiki/Napoleon_III\" target=\"_blank\"> Napoléon III&nbsp;</a><i>&nbsp;(born Charles-Louis Napoleon Bonaparte) </i>lived on Lord Street from May 1846, before becoming Emperor of France in 1851.</p>",
-          "text2": "<p>Just a year later – no doubt inspired by his stay in the town – he set his Prefect of the Seine, <a href=\"https://en.wikipedia.org/wiki/Georges-Eugène_Haussmann\" target=\"_blank\">Baron George Haussman</a>, to work redesigning the city of Paris.</p>",
-          "text3": "<p>Much of the medieval centre of Paris was replaced with broad tree-lined boulevards, covered walkways and arcades, just like Southport’s stylish Lord Street.</p>"
+          "text1": "<p>• It's a little known fact that<a href=\"https://en.wikipedia.org/wiki/Napoleon_III\" target=\"_blank\"> Napoléon III&nbsp;</a><i>&nbsp;(born Charles-Louis Napoleon Bonaparte) </i>lived on Lord Street from May 1846, before becoming Emperor of France in 1851.</p>",
+          "text2": "<p>• Just a year later – no doubt inspired by his stay in the town – he set his Prefect of the Seine, <a href=\"https://en.wikipedia.org/wiki/Georges-Eugène_Haussmann\" target=\"_blank\">Baron George Haussman</a>, to work redesigning the city of Paris.</p>",
+          "text3": "<p>• Much of the medieval centre of Paris was replaced with broad tree-lined boulevards, covered walkways and arcades, just like Southport’s stylish Lord Street.</p>"
         },
         {
           "_name": "map1",

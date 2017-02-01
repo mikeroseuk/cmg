@@ -504,15 +504,19 @@ h6,
 }
 #header3-0 SMALL {
   font-size: 20px;
+  color: #8c8c8c;
 }
 #header3-0 H3 {
   font-size: 36px;
+  color: #2b0680;
 }
 #features3-0 H4 {
   font-size: 32px;
+  color: #2b0680;
 }
 #features3-0 H5 {
   font-size: 18px;
+  color: #8c8c8c;
 }
 #features3-0 P {
   font-family: 'Lora', serif;
