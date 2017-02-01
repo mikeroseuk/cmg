@@ -515,10 +515,13 @@ h6,
   color: #efefef;
 }
 #form1-0 SMALL {
-  font-size: 24px;
+  font-size: 18px;
 }
 #form1-0 .form-control-label {
   color: #232323;
+}
+#form1-0 .mbr-section-title {
+  font-size: 36px;
 }
 #contacts1-0 P {
   font-family: 'Open Sans', sans-serif;

@@ -491,10 +491,13 @@
           "_name": "form1",
           "_styles": {
             "SMALL": {
-              "font-size": "24px"
+              "font-size": "18px"
             },
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_anchor": "form1-0",
