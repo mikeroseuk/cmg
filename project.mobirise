@@ -26,7 +26,8 @@
     "favicon": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "uniqCompNum": 0
+    "uniqCompNum": 0,
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -212,14 +213,14 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "17px",
+              "font-size": "15px",
               "color": "#efefef"
             }
           },
           "_anchor": "content7-0",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "text1": "<p>• It's a little known fact that<a href=\"https://en.wikipedia.org/wiki/Napoleon_III\" target=\"_blank\"> Napoléon III&nbsp;</a><i>&nbsp;(born Charles-Louis Napoleon Bonaparte) </i>lived on Lord Street from May 1846, before becoming Emperor of France in 1851.</p>",
@@ -255,17 +256,17 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "font-size": "32px",
+              "font-size": "25px",
               "color": "#2b0680"
             },
             "H5": {
-              "font-size": "18px",
+              "font-size": "15px",
               "color": "#8c8c8c"
             },
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "font-size": "14px"
             }
           },
           "_anchor": "features3-0",
@@ -305,8 +306,8 @@
           },
           "title1": "Newspapers",
           "subtitle1": "Over 8.5 million a year",
-          "caption1": "Eight local newspapers every week&nbsp;<br>serving the communities of <br>Sefton and West Lancashire",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Eight local newspapers every weekserving the communities of <br>Sefton and West Lancashire",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.champnews.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/magazine-600x399-33.jpg",
@@ -368,7 +369,7 @@
             }
           },
           "title5": "Distribution",
-          "subtitle5": "Unparalleled door to door deliveries",
+          "subtitle5": "Door to door service",
           "caption5": "Over 800 foot soldiers delivering<br>to more than 160,000 homes<br>every week",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
