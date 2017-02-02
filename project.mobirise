@@ -190,12 +190,12 @@
                 "image": "@PROJECT_PATH@/assets/images/jks-1796-editorial-retouched-2000x1333-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showText": true,
+                "text": "Champion Editorial Team<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -204,13 +204,13 @@
                 "image": "@PROJECT_PATH@/assets/images/jks-1772-admin-2000x1333-76.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#efefef",
+                "overlay": true,
+                "overlayColor": "#000000",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showText": true,
+                "text": "Champion Administration Team<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -219,12 +219,12 @@
                 "image": "@PROJECT_PATH@/assets/images/jks-1789-magazine-2000x1333-98.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "BACKGROUND VIDEO",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showText": true,
+                "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Champion Magazine Team<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -233,43 +233,43 @@
                 "image": "@PROJECT_PATH@/assets/images/jks-1826-sales-team-2000x1333-91.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#efefef",
+                "overlay": true,
+                "overlayColor": "#000000",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/jks-1801-production-2000x1333-69.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#efefef",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Champion Sales Team",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/jks-1814-distribution-retouched-2000x1333-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jks-1801-production-2000x1333-69.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#efefef",
+                "overlay": true,
+                "overlayColor": "#000000",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Champion Production Team",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/jks-1814-distribution-retouched-2000x1333-20.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": true,
+                "text": "Champion Distribution Team<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -279,7 +279,12 @@
             "showBullets": true
           },
           "_anchor": "slider3-0",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -303,7 +308,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Our multi-talented local award-winning teams",
+          "title": "Our multi-talented award-winning teams",
           "meta": "Ready to start working on your next project<br><br>"
         },
         {
@@ -464,7 +469,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br><br>We’re on <br>Lord Street",
+          "title": "<br><br><br>You’ll find us on <br>Lord Street",
           "text": "<br>Southport’s famous shopping boulevard<br>that inspired the design of modern Paris",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -586,7 +591,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/champion-namestyle-white-128x35-54.png",
+              "src": "@PROJECT_PATH@/assets/images/champ-white-128x35.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -600,9 +605,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>Clare House, 166 Lord Street,<br>Southport PR9 0QA<br>United Kingdom",
-          "text2": "<strong>Contacts</strong><br>\nEmail: hello@championmediagroup.com<br>\nPhone: +44 (0) 1704 392 392<br>",
-          "text3": "<strong>Links</strong><br>\n<a href=\"http://www.champnews.com\" target=\"_blank\">Champion Newspapers</a><br>\n<a href=\"http://jobschampion.com\" target=\"_blank\">Jobs Champion</a><br>\n<a href=\"http://www.linedancerweb.com\" target=\"_blank\">Linedancer</a>"
+          "text1": "Address<br><br>Clare House<br>166 Lord Street<br>Southport <br>PR9 0QA<br>United Kingdom",
+          "text2": "Contacts<br><br>\nEmail: hello@championmediagroup.com<br>\nPhone: <br>+44 (0) 1704 392 392<br>",
+          "text3": "<p>Links</p><br><p><a href=\"http://www.champnews.com\" target=\"_blank\" style=\"font-size: 0.875rem; background-color: rgb(43, 6, 128); line-height: 1.5;\">Champion Newspapers</a><br><a href=\"http://jobschampion.com\" target=\"_blank\">Jobs Champion</a><br>\n<a href=\"http://www.linedancerweb.com\" target=\"_blank\">Linedancer</a><br><a href=\"http://www.crystalbootawards.com\" target=\"_blank\">Crystal Boot Awards</a><br><a href=\"http://outandabout.champnews.com\" target=\"_blank\">Out &amp; About</a><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"http://outandabout.champnews.com\"></a></span><br></p>"
         },
         {
           "_name": "footer1",
@@ -610,10 +615,11 @@
             "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#efefef"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "I": {
               "color": "#efefef",
@@ -633,7 +639,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright © 2017 Champion Media Group. All rights reserved.<br></b><i>Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of<br>Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999.</i>"
+          "text": "Copyright<b> © 2017 Champion Media Group. All rights reserved.<br></b><i>Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of<br>Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999.</i>"
         }
       ]
     }

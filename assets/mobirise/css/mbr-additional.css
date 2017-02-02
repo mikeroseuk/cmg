@@ -500,6 +500,9 @@ h6,
 #header1-0 .mbr-section-lead SPAN {
   color: #efefef;
 }
+#slider3-0 P {
+  text-align: left;
+}
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
   text-align: center;
@@ -547,9 +550,10 @@ h6,
 #footer1-0 P {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
+  color: #efefef;
 }
 #footer1-0 B {
-  color: #ffffff;
+  color: #efefef;
 }
 #footer1-0 I {
   color: #efefef;
