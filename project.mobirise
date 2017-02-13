@@ -26,7 +26,7 @@
     "favicon": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "uniqCompNum": 1
+    "uniqCompNum": 5
   },
   "pages": {
     "index.html": {
@@ -456,6 +456,141 @@
             "overlayColor": "#444444"
           },
           "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved<br>Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of<br>Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-1",
+          "_params": {
+            "googleMap": {
+              "address": "Clare House 166 Lord Street Southport PR9 0QA\n",
+              "placeId": "ChIJxWFl1N0-e0gRpI_p_9daC1E",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-2",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "How can we help you today?",
+          "form": {
+            "action": "mike.rose@champnews.com",
+            "alerts": {
+              "success": "Thanks for your enquiry … we'll get back to you as soon as possible."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Daytime telephone number*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SMALL": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "21px"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Support for your business",
+          "meta": "Helping you to get the most from your promotional pound"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Since 1992 we have been proud to support local businesses throughout Sefton and West Lancashire through the pages of eight local newspapers delivered to over 165,000 homes every week.</p><p>The Champion series has become a firm friend of both advertisers and readers thanks to to its repeated ability to deliver results.</p><p>Our 'can do' attitude is reflected in all areas of our business ensuring you always receive the finest service at an affordable price.</p>",
+          "text2": "<p>We understand your marketplace and can expertly interpret your brief so as to deliver results everytime, on time and on budget.</p><p>Whether you need a press advertising campaign, a full product catalogue, promotional video for your website or point of sale/exhibition materials, we'll provide you with the package that will best suit both your needs and your pocket.</p><p>Let's talk about what your business requires.</p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         }
       ]
     }
