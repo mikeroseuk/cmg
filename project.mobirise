@@ -101,7 +101,7 @@
               "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -111,8 +111,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
               "font-size": "1.25rem"
@@ -152,9 +152,9 @@
             "bgColor": "#282828",
             "fontSize": "1.25",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -181,8 +181,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Champion Media Group</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#dropdown-menu-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Champion Media Group</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -216,7 +216,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -224,19 +224,22 @@
             "showButtons": false
           },
           "title": "Champion Media Group",
-          "text": "Design &nbsp; | &nbsp; Publish &nbsp; | &nbsp; Deliver",
+          "text": "<span style=\"font-style: normal;\">Design &nbsp; | &nbsp; Publish &nbsp; | &nbsp; Deliver</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#efefef"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#cccccc",
+              "font-size": "21px"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#cccccc",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "msg-box5-3",
@@ -279,90 +282,9 @@
               "size": 0
             }
           },
-          "title": "We rock!",
-          "text": "High quality video titling service from graphic experts at prices you can afford",
+          "title": "Whatever the medium<br>… we deliver",
+          "text": "We design for publishing … print, online and video",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-4",
-          "_params": {
-            "imageSize": "70",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dancefloor-room-club-2000x1250-80.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/ZjxnniOydGA",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "It’s a dance",
-          "text": "Line Dance Foundation KL Opening Dance",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_name": "image1",
-          "_styles": {
-            "DIV": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "image1-5",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": " We understand our readers and advertisers.",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "We understand our readers and advertisers.<br>Local people serving the local community."
         },
         {
           "_name": "features1",
@@ -390,8 +312,8 @@
           "_anchor": "features1-6",
           "_params": {
             "columnsColor": "#000000",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -408,7 +330,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": true
           },
           "media1": {
@@ -419,9 +341,9 @@
               "active": true
             }
           },
-          "title1": "EDITORIAL",
-          "subtitle1": "Award winning journalism team",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "DESIGN",
+          "subtitle1": "<span style=\"font-style: normal;\">Talented team of graphic designers</span>",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -431,9 +353,9 @@
               "active": true
             }
           },
-          "title2": "DISTRIBUTION",
-          "subtitle2": "Unparalleled door to door deliveries",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "PRINT",
+          "subtitle2": "<span style=\"font-style: normal;\">Competitive print management</span>",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -443,9 +365,9 @@
               "active": true
             }
           },
-          "title3": "DESIGN",
-          "subtitle3": "Creative thinking with print management",
-          "caption3": "Google has a highly exhaustive list of fonts &nbsp;font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "DIGITAL",
+          "subtitle3": "<span style=\"font-style: normal;\">Creative thinking in any medium</span>",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -455,9 +377,9 @@
               "active": true
             }
           },
-          "title4": "DIGITAL",
-          "subtitle4": "Whatever the medium, we deliver",
-          "caption4": "Mobirise gives you the freedom to develop as websites as you like given the fact that it is a desktop app.",
+          "title4": "DISTRIBUTE",
+          "subtitle4": "<span style=\"font-style: normal;\">Unparalleled door to door deliveries</span>",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -505,14 +427,21 @@
             }
           },
           "text1": "<br><br><br><br><br><br>Clare House, 166 Lord Street<br>Southport, PR9 0QA<br>United Kingdom<br>",
-          "text2": "<br><br><br><br><br><br><b>Contact<br></b>E: info@champnews.com<br>T: 01704 392 392",
-          "text3": "<p><br></p><br><p><br></p><p><b>Links</b><br><a href=\"http://www.champnews.com\" target=\"_blank\">Champion Newspapers</a><br><a href=\"http://www.champlocal.co.uk\" target=\"_blank\">ChampLocal App</a><br><a href=\"http://www.jobschampion.com\" target=\"_blank\">Jobs Champion</a><br><a href=\"http://www.crystalbootawards.com\" target=\"_blank\">Crystal Boot Awards</a><br><a href=\"http://www.linedancerweb.com\" target=\"_blank\">Linedancer Web</a><br></p>"
+          "text2": "<br><br><br><br><br><br>Contact<br>E: info@champnews.com<br>T: 01704 392 392",
+          "text3": "<p><br></p><br><p><br></p><p>Links<br><a href=\"http://www.champnews.com\" target=\"_blank\">Champion Newspapers</a><br><a href=\"http://www.champlocal.co.uk\" target=\"_blank\">ChampLocal App</a><br><a href=\"http://www.jobschampion.com\" target=\"_blank\">Jobs Champion</a><br><a href=\"http://www.crystalbootawards.com\" target=\"_blank\">Crystal Boot Awards</a><br><a href=\"http://www.linedancerweb.com\" target=\"_blank\">Linedancer Web</a><br></p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#efefef"
+            }
+          },
           "_anchor": "footer1-0",
           "_params": {
             "paddingTop": 2,
@@ -526,14 +455,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved<br>Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of<br>Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            }
-          }
+          "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved<br>Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of<br>Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>"
         }
       ]
     }

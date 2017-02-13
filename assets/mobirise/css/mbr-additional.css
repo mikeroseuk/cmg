@@ -450,7 +450,7 @@ h6,
 #menu-0 .navbar-caption {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -462,7 +462,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-0 .link {
   font-size: 1.25rem;
@@ -521,21 +521,13 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #msg-box5-3 P {
-  font-family: 'Montserrat', sans-serif;
-  color: #efefef;
+  font-family: 'Open Sans', sans-serif;
+  color: #cccccc;
+  font-size: 21px;
 }
 #msg-box5-3 H3 {
-  color: #ffffff;
-}
-#msg-box7-4 .mbr-section-title,
-#msg-box7-4 .lead p {
-  color: #fff;
-}
-#msg-box7-4 P {
-  font-family: 'Montserrat', sans-serif;
-}
-#image1-5 DIV {
-  font-size: 30px;
+  color: #cccccc;
+  font-family: 'Open Sans', sans-serif;
 }
 #features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #000000;
