@@ -1,6 +1,13 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
+
 
 
 
@@ -14,11 +21,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Lora', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Lora', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .btn,
 .alert,
@@ -57,12 +64,6 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
-}
-.btn {
-  border-radius: 1.6em;
-}
-.mbr-subscribe .btn {
-  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -420,12 +421,36 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
+#dropdown-menu-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1 .nav .link,
+#dropdown-menu-1 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1 .navbar,
+#dropdown-menu-1 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1 .dropdown-menu a:hover,
+#dropdown-menu-1 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1 .navbar-toggler {
+  color: #000000;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -437,14 +462,14 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1.1rem;
+  font-size: 1.25rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.354rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -483,76 +508,62 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-0 P {
-  font-size: 36px;
-  color: #475577;
+#header1-2 H1 {
+  font-size: 72px;
 }
-#header1-0 H1 {
-  font-size: 80px;
-  color: #2b0680;
+#header1-2 .mbr-section-lead {
+  font-family: 'Open Sans', sans-serif;
 }
-#header1-0 .mbr-section-title {
+#header1-2 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-2 .mbr-section-title SPAN {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box5-3 P {
+  font-family: 'Montserrat', sans-serif;
+  color: #efefef;
+}
+#msg-box5-3 H3 {
   color: #ffffff;
 }
-#header1-0 .mbr-section-lead {
-  color: #efefef;
+#msg-box7-4 .mbr-section-title,
+#msg-box7-4 .lead p {
+  color: #fff;
 }
-#header1-0 .mbr-section-lead SPAN {
-  color: #efefef;
+#msg-box7-4 P {
+  font-family: 'Montserrat', sans-serif;
 }
-#content7-0 P {
-  font-family: 'Lora', serif;
-  font-size: 15px;
-  color: #efefef;
+#image1-5 DIV {
+  font-size: 30px;
 }
-#header3-0 .mbr-section-title,
-#header3-0 .mbr-section-subtitle {
-  text-align: center;
+#features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #000000;
 }
-#header3-0 SMALL {
-  font-size: 20px;
-  color: #8c8c8c;
+#features1-6 H4 {
+  font-size: 24px;
 }
-#header3-0 H3 {
-  font-size: 36px;
-  color: #2b0680;
+#features1-6 H5 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
 }
-#features3-0 H4 {
-  font-size: 25px;
-  color: #2b0680;
+#features1-6 P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
 }
-#features3-0 H5 {
-  font-size: 15px;
-  color: #8c8c8c;
-}
-#features3-0 P {
-  font-family: 'Lora', serif;
+#features1-6 .btn {
   font-size: 14px;
-}
-#form1-0 SMALL {
-  font-size: 18px;
-}
-#form1-0 .form-control-label {
-  color: #232323;
-}
-#form1-0 .mbr-section-title {
-  font-size: 36px;
 }
 #contacts1-0 P {
   font-family: 'Open Sans', sans-serif;
 }
+#contacts1-0 I {
+  font-size: 14px;
+}
 #contacts1-0 STRONG {
-  color: #cccccc;
+  font-family: 'Open Sans', sans-serif;
 }
 #footer1-0 P {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
   color: #efefef;
-}
-#footer1-0 B {
-  color: #efefef;
-}
-#footer1-0 I {
-  color: #efefef;
-  font-size: 12px;
 }
