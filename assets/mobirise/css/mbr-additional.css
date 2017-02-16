@@ -526,6 +526,23 @@ h6,
 #header1-2 .mbr-section-title SPAN {
   font-family: 'Montserrat', sans-serif;
 }
+#header3-3 .mbr-section-title,
+#header3-3 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3 SMALL {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+}
+#header3-3 H3 {
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 60px;
+}
+#content6-4 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
 #msg-box5-3 P {
   font-family: 'Open Sans', sans-serif;
   color: #cccccc;
@@ -552,19 +569,6 @@ h6,
 #features1-6 .btn {
   font-size: 14px;
 }
-#contacts1-0 P {
-  font-family: 'Open Sans', sans-serif;
-}
-#contacts1-0 I {
-  font-size: 14px;
-}
-#contacts1-0 STRONG {
-  font-family: 'Open Sans', sans-serif;
-}
-#footer1-0 P {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
 #form1-2 .form-control-label {
   color: #232323;
 }
@@ -577,19 +581,16 @@ h6,
 #form1-2 .btn {
   font-family: 'Open Sans', sans-serif;
 }
-#header3-3 .mbr-section-title,
-#header3-3 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-3 SMALL {
+#footer1-0 P {
   font-family: 'Open Sans', sans-serif;
-  font-size: 21px;
+  color: #efefef;
 }
-#header3-3 H3 {
-  text-align: right;
+#contacts1-0 P {
   font-family: 'Open Sans', sans-serif;
-  font-size: 60px;
 }
-#content6-4 P {
+#contacts1-0 I {
+  font-size: 14px;
+}
+#contacts1-0 STRONG {
   font-family: 'Open Sans', sans-serif;
 }
