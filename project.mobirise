@@ -530,7 +530,8 @@
             "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "10px"
             }
           },
           "_anchor": "footer1-0",
@@ -546,7 +547,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved<br>Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of<br>Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>"
+          "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved &nbsp; | &nbsp;&nbsp;Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of&nbsp;Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>"
         },
         {
           "_tags": [
