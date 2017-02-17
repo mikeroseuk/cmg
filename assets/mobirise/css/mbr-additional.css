@@ -484,19 +484,19 @@ h6,
 }
 #ext_menu-5 .link[aria-expanded="true"],
 #ext_menu-5 .dropdown-menu {
-  background: #1f5087;
+  background: #525252;
 }
 #ext_menu-5 .nav-dropdown-sm .link:focus,
 #ext_menu-5 .nav-dropdown-sm .link:hover,
 #ext_menu-5 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-5 .nav-dropdown-sm .dropdown-item:hover {
-  background: #2662a4!important;
+  background: #646464!important;
 }
 #ext_menu-5 .navbar,
 #ext_menu-5 .nav-dropdown-sm,
 #ext_menu-5 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-5 .nav-dropdown-sm .dropdown-menu {
-  background: #2969b0;
+  background: #6c6c6c;
 }
 #ext_menu-5 .bg-color.transparent .link {
   color: #ffffff;
@@ -544,11 +544,11 @@ h6,
 }
 #msg-box5-3 P {
   font-family: 'Open Sans', sans-serif;
-  color: #cccccc;
+  color: #efefef;
   font-size: 21px;
 }
 #msg-box5-3 H3 {
-  color: #cccccc;
+  color: #efefef;
   font-family: 'Open Sans', sans-serif;
 }
 #features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
@@ -572,14 +572,15 @@ h6,
   color: #ffffff;
 }
 #form1-2 .form-control-label {
-  color: #2969b0;
+  color: #efefef;
 }
 #form1-2 .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
-  color: #2969b0;
+  color: #efefef;
 }
 #form1-2 SMALL {
   font-family: 'Open Sans', sans-serif;
+  color: #efefef;
 }
 #form1-2 .btn {
   font-family: 'Open Sans', sans-serif;
