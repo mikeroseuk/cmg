@@ -555,7 +555,7 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #000000;
+  background-color: #2969b0;
 }
 #features1-6 H4 {
   font-size: 24px;
@@ -571,11 +571,15 @@ h6,
 #features1-6 .btn {
   font-size: 14px;
 }
+#features1-6 .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
+  color: #ffffff;
+}
 #form1-2 .form-control-label {
-  color: #232323;
+  color: #2969b0;
 }
 #form1-2 .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
+  color: #2969b0;
 }
 #form1-2 SMALL {
   font-family: 'Open Sans', sans-serif;

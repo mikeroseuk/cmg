@@ -276,8 +276,8 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text1": "<p>Since 1992 we have been proud to support local businesses throughout Sefton and West Lancashire through the pages of eight local newspapers delivered to over 165,000 homes every week.&nbsp;<span style=\"line-height: 1.5;\">The Champion series has become a firm friend of both advertisers and readers thanks to to its repeated ability to deliver results.</span></p><p>Our 'can do' attitude is reflected in all areas of our business ensuring you always receive the finest service at an affordable price.</p>",
-          "text2": "<p>We understand your marketplace and can expertly interpret your brief so as to deliver results everytime, on time and on budget.&nbsp;<span style=\"line-height: 1.5;\">Whether you need a press advertising campaign, a full product catalogue, promotional video for your website or point of sale/exhibition materials, we'll provide you with the package that will best suit both your needs and your pocket.</span></p><p><br></p><p><br></p><p>Let's talk about what your business requires.</p>"
+          "text1": "<p>Since 1992 we have been proud to support local businesses throughout Sefton and West Lancashire through the pages of eight local newspapers delivered to over 165,000 homes every week.&nbsp;<span style=\"line-height: 1.5;\">The Champion series has become a firm friend of both advertisers and readers thanks to to its repeated ability to deliver results.</span></p><p><br></p><p>Our 'can do' attitude is reflected in all areas of our business, ensuring you will always receive the finest and most effective service at an affordable price.</p>",
+          "text2": "<p>We understand your marketplace and can expertly interpret your brief so as to deliver results everytime, on time and on budget.&nbsp;<span style=\"line-height: 1.5;\">Whether you need a press advertising campaign, a full product catalogue, promotional video for your website or point of sale/exhibition materials, we'll provide you with the package that will best suit both your needs and your pocket.</span></p><p><br></p><p>Let's talk about what your business requires. </p><p><br></p><p>We're sure to have affordable solutions for you.</p>"
         },
         {
           "_name": "msg-box5",
@@ -334,15 +334,15 @@
               "size": 0
             }
           },
-          "title": "Whatever the medium<br>… we deliver",
-          "text": "We design for publishing … print, online and video",
+          "title": "<span style=\"font-weight: normal;\"><br>Whatever the medium<br></span>… we deliver results",
+          "text": "We design for print, digital, online and video",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
+              "background-color": "#2969b0"
             },
             "H4": {
               "font-size": "24px"
@@ -359,11 +359,14 @@
             },
             ".btn": {
               "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle SPAN": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "features1-6",
           "_params": {
-            "columnsColor": "#000000",
+            "columnsColor": "#2969b0",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -387,46 +390,62 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "DESIGN",
-          "subtitle1": "<span style=\"font-style: normal;\">Talented team of graphic designers</span>",
+          "subtitle1": "<span style=\"font-style: normal;\">A creative team of graphic designers</span>",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "PRINT",
+          "title2": "DELIVER",
           "subtitle2": "<span style=\"font-style: normal;\">Competitive print management</span>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "DIGITAL",
           "subtitle3": "<span style=\"font-style: normal;\">Creative thinking in any medium</span>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x393.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "DISTRIBUTE",
@@ -441,11 +460,12 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#2969b0"
             },
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#2969b0"
             },
             "SMALL": {
               "font-family": "'Open Sans', sans-serif",
@@ -458,7 +478,7 @@
           },
           "_anchor": "form1-2",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#2969b0",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -473,7 +493,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "How can we help you today?",
+          "subtitle": "Please get in touch.",
           "form": {
             "action": "mike.rose@champnews.com",
             "alerts": {
@@ -497,7 +517,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Just tell us how we can help you today …"
               }
             }
           },
