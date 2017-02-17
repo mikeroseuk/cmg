@@ -15,11 +15,11 @@
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Open Sans",
-        "subtitleFont": "Oswald",
+        "subtitleFont": "Open Sans",
         "textFont": "Open Sans",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       }
     },
     "scrollAnimation": "true",

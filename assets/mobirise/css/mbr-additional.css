@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -70,6 +69,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Open Sans', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -77,14 +82,14 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Open Sans', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
@@ -92,7 +97,7 @@ h6,
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-style: normal;
 }
 .bg-primary {
@@ -428,9 +433,6 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #2969b0;
-}
-.scrollToTop_wraper {
-  opacity: 0 !important;
 }
 #dropdown-menu-1 .hide-buttons [data-button] {
   display: none !important;
