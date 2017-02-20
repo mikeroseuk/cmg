@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "distribution.html",
+    "currentPage": "index.html",
     "versionFirst": "3.0",
     "versionPublish": "3.11.1",
     "name": "CMG Mob3",
@@ -26,7 +26,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/champion-initial-blue-128x189.png",
     "google-analytics": "",
     "cookiesAlert": "",
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "noImageResize": ""
@@ -343,6 +343,26 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "The Champion Line-up",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -456,6 +476,26 @@
           "subtitle4": "<span style=\"font-style: normal;\">Unparalleled<br>door to door deliveries</span>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -618,46 +658,6 @@
           "text1": "<br><br><br><br><br><br>Clare House, 166 Lord Street<br>Southport, PR9 0QA<br>United Kingdom<br>",
           "text2": "<br><br><br><br><br><br>Contact<br>E: info@champnews.com<br>T: 01704 392 392",
           "text3": "<p><br></p><br><p><br></p><p>Links<br><a href=\"http://www.champnews.com\" target=\"_blank\" class=\"text-white\">Champion Newspapers</a><br><a href=\"http://www.champlocal.co.uk\" target=\"_blank\" class=\"text-white\">ChampLocal App</a><br><a href=\"http://www.jobschampion.com\" target=\"_blank\" class=\"text-white\">Jobs Champion</a><br><a href=\"http://www.crystalbootawards.com\" target=\"_blank\" class=\"text-white\">Crystal Boot Awards</a><br><a href=\"http://www.linedancerweb.com\" target=\"_blank\" class=\"text-white\">Linedancer Web</a><br></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1p",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1q",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
         }
       ]
     },
@@ -915,6 +915,17 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2969b0"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "text-align": "center"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#cccccc"
+            }
+          },
           "_anchor": "features1-k",
           "_params": {
             "columnsColor": "#2969b0",
@@ -1030,18 +1041,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2969b0"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "text-align": "center"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#cccccc"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {

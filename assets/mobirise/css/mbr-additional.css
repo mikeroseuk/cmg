@@ -553,6 +553,10 @@ h6,
   color: #efefef;
   font-family: 'Open Sans', sans-serif;
 }
+#header3-1r .mbr-section-title,
+#header3-1r .mbr-section-subtitle {
+  text-align: center;
+}
 #features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2969b0;
 }
@@ -572,6 +576,10 @@ h6,
 }
 #features1-6 .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
   color: #ffffff;
+}
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
 }
 #form1-2 .form-control-label {
   color: #efefef;
@@ -600,14 +608,6 @@ h6,
 }
 #contacts1-0 STRONG {
   font-family: 'Open Sans', sans-serif;
-}
-#header3-1p .mbr-section-title,
-#header3-1p .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1q .mbr-section-title,
-#header3-1q .mbr-section-subtitle {
-  text-align: center;
 }
 
 
