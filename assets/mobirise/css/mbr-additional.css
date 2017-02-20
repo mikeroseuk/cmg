@@ -611,9 +611,6 @@ h6,
 
 
 
-
-
-
 #undefined .hide-buttons [data-button] {
   display: none !important;
 }
@@ -725,10 +722,6 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
 }
-#header3-j .mbr-section-title,
-#header3-j .mbr-section-subtitle {
-  text-align: center;
-}
 #features1-k .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2969b0;
 }
@@ -741,20 +734,6 @@ h6,
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
-}
-#form1-c .form-control-label {
-  color: #efefef;
-}
-#form1-c .mbr-section-title {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
-#form1-c SMALL {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
-#form1-c .btn {
-  font-family: 'Open Sans', sans-serif;
 }
 #footer1-d P {
   font-family: 'Open Sans', sans-serif;
@@ -770,9 +749,6 @@ h6,
 #contacts1-f STRONG {
   font-family: 'Open Sans', sans-serif;
 }
-
-
-
 
 
 
@@ -911,20 +887,6 @@ h6,
 #header3-u .mbr-section-subtitle {
   text-align: center;
 }
-#form1-x .form-control-label {
-  color: #efefef;
-}
-#form1-x .mbr-section-title {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
-#form1-x SMALL {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
-#form1-x .btn {
-  font-family: 'Open Sans', sans-serif;
-}
 #footer1-y P {
   font-family: 'Open Sans', sans-serif;
   color: #efefef;
@@ -939,9 +901,6 @@ h6,
 #contacts1-10 STRONG {
   font-family: 'Open Sans', sans-serif;
 }
-
-
-
 
 
 
@@ -1080,20 +1039,6 @@ h6,
 #header3-17 .mbr-section-subtitle {
   text-align: center;
 }
-#form1-18 .form-control-label {
-  color: #efefef;
-}
-#form1-18 .mbr-section-title {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
-#form1-18 SMALL {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
-#form1-18 .btn {
-  font-family: 'Open Sans', sans-serif;
-}
 #footer1-19 P {
   font-family: 'Open Sans', sans-serif;
   color: #efefef;
@@ -1108,9 +1053,6 @@ h6,
 #contacts1-1b STRONG {
   font-family: 'Open Sans', sans-serif;
 }
-
-
-
 
 
 
@@ -1248,20 +1190,6 @@ h6,
 #header3-1i .mbr-section-title,
 #header3-1i .mbr-section-subtitle {
   text-align: center;
-}
-#form1-1j .form-control-label {
-  color: #efefef;
-}
-#form1-1j .mbr-section-title {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
-#form1-1j SMALL {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-}
-#form1-1j .btn {
-  font-family: 'Open Sans', sans-serif;
 }
 #footer1-1k P {
   font-family: 'Open Sans', sans-serif;

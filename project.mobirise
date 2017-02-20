@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "distribution.html",
+    "currentPage": "index.html",
     "versionFirst": "3.0",
     "versionPublish": "3.11.1",
     "name": "CMG Mob3",
@@ -815,7 +815,7 @@
             "showButtons": false
           },
           "title": "Champion Design",
-          "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">a creative team of talented designers awaits your project</span>",
+          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">a creative team of talented designers awaits your project</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -871,26 +871,6 @@
           "text2": "<p>Utilising state-of-the-art Mac hardware technologies and industry leading software systems, we will ensure your image comes first in everything we do.</p><p><br></p><p>We pride ourselves on always delivering on time. On budget. </p><p>And exceeding your expectations.</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -903,7 +883,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1047,77 +1027,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#efefef"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            "SMALL": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "form1-c",
-          "_params": {
-            "labelsColor": "#efefef",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#6c6c6c",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Please get in touch.",
-          "form": {
-            "action": "mike.rose@champnews.com",
-            "alerts": {
-              "success": "Thanks for your enquiry … we'll get back to you as soon as possible."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Daytime telephone number*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Just tell us how we can help you today …"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -1141,21 +1050,6 @@
             "overlayColor": "#444444"
           },
           "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved &nbsp; | &nbsp;&nbsp;Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of&nbsp;Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-e",
-          "_params": {
-            "googleMap": {
-              "address": "Clare House 166 Lord Street Southport PR9 0QA\n",
-              "placeId": "ChIJxWFl1N0-e0gRpI_p_9daC1E",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
         },
         {
           "_name": "contacts1",
@@ -1401,7 +1295,7 @@
             "showButtons": false
           },
           "title": "Champion Print",
-          "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">we produce around 9,000,000 publications a year</span>",
+          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">we produce around 9,000,000 publications a year</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1633,77 +1527,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#efefef"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            "SMALL": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "form1-x",
-          "_params": {
-            "labelsColor": "#efefef",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#6c6c6c",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Please get in touch.",
-          "form": {
-            "action": "mike.rose@champnews.com",
-            "alerts": {
-              "success": "Thanks for your enquiry … we'll get back to you as soon as possible."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Daytime telephone number*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Just tell us how we can help you today …"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -1727,21 +1550,6 @@
             "overlayColor": "#444444"
           },
           "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved &nbsp; | &nbsp;&nbsp;Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of&nbsp;Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-z",
-          "_params": {
-            "googleMap": {
-              "address": "Clare House 166 Lord Street Southport PR9 0QA\n",
-              "placeId": "ChIJxWFl1N0-e0gRpI_p_9daC1E",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
         },
         {
           "_name": "contacts1",
@@ -1987,7 +1795,7 @@
             "showButtons": false
           },
           "title": "Champion Digital Services",
-          "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">digital publications, online delivery and audio visual presentations</span>",
+          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">digital publications, online delivery and audio visual presentations</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -2219,77 +2027,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#efefef"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            "SMALL": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "form1-18",
-          "_params": {
-            "labelsColor": "#efefef",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#6c6c6c",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Please get in touch.",
-          "form": {
-            "action": "mike.rose@champnews.com",
-            "alerts": {
-              "success": "Thanks for your enquiry … we'll get back to you as soon as possible."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Daytime telephone number*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Just tell us how we can help you today …"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -2313,21 +2050,6 @@
             "overlayColor": "#444444"
           },
           "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved &nbsp; | &nbsp;&nbsp;Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of&nbsp;Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-1a",
-          "_params": {
-            "googleMap": {
-              "address": "Clare House 166 Lord Street Southport PR9 0QA\n",
-              "placeId": "ChIJxWFl1N0-e0gRpI_p_9daC1E",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
         },
         {
           "_name": "contacts1",
@@ -2573,7 +2295,7 @@
             "showButtons": false
           },
           "title": "Champion Distribution",
-          "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">unparalleled door-to-door deliveries</span>",
+          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">unparalleled door-to-door deliveries</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -2805,138 +2527,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/champ-circ-area-2000x1209.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "VIDEO SLIDE",
-                "showText": true,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "IMAGE SLIDE",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider-1o",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#efefef"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            "SMALL": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "form1-1j",
-          "_params": {
-            "labelsColor": "#efefef",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#6c6c6c",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Please get in touch.",
-          "form": {
-            "action": "mike.rose@champnews.com",
-            "alerts": {
-              "success": "Thanks for your enquiry … we'll get back to you as soon as possible."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Daytime telephone number*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Just tell us how we can help you today …"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -2960,21 +2550,6 @@
             "overlayColor": "#444444"
           },
           "text": "<b>Copyright &nbsp;© 1992-2017 Champion Media Group</b> &nbsp;| &nbsp;All rights reserved &nbsp; | &nbsp;&nbsp;Champion Media Group, CMG, Champion Newspapers, Linedancer, Crystal Boot Awards and various other names are trading styles of&nbsp;Waypride Limited, a company registered in England &amp; Wales at the above address, company registration no. 02889999<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-1l",
-          "_params": {
-            "googleMap": {
-              "address": "Clare House 166 Lord Street Southport PR9 0QA\n",
-              "placeId": "ChIJxWFl1N0-e0gRpI_p_9daC1E",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
         },
         {
           "_name": "contacts1",
