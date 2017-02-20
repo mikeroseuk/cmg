@@ -614,9 +614,6 @@ h6,
 
 
 
-
-
-
 #undefined .hide-buttons [data-button] {
   display: none !important;
 }
@@ -653,6 +650,7 @@ h6,
 #ext_menu-6 .link,
 #ext_menu-6 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-6 .link {
   font-size: 1rem;
@@ -740,43 +738,6 @@ h6,
 #features1-k .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #cccccc;
 }
-#header3-l .mbr-section-title,
-#header3-l .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box5-a P {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-  font-size: 21px;
-}
-#msg-box5-a H3 {
-  color: #efefef;
-  font-family: 'Open Sans', sans-serif;
-}
-#header3-g .mbr-section-title,
-#header3-g .mbr-section-subtitle {
-  text-align: center;
-}
-#features1-b .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2969b0;
-}
-#features1-b H4 {
-  font-size: 24px;
-}
-#features1-b H5 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-}
-#features1-b P {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
-}
-#features1-b .btn {
-  font-size: 14px;
-}
-#features1-b .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
-  color: #ffffff;
-}
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
@@ -809,10 +770,6 @@ h6,
 #contacts1-f STRONG {
   font-family: 'Open Sans', sans-serif;
 }
-
-
-
-
 
 
 
@@ -950,45 +907,8 @@ h6,
 #features1-r .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #cccccc;
 }
-#header3-s .mbr-section-title,
-#header3-s .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box5-t P {
-  font-family: 'Open Sans', sans-serif;
-  color: #efefef;
-  font-size: 21px;
-}
-#msg-box5-t H3 {
-  color: #efefef;
-  font-family: 'Open Sans', sans-serif;
-}
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
-  text-align: center;
-}
-#features1-v .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2969b0;
-}
-#features1-v H4 {
-  font-size: 24px;
-}
-#features1-v H5 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-}
-#features1-v P {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
-}
-#features1-v .btn {
-  font-size: 14px;
-}
-#features1-v .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
-  color: #ffffff;
-}
-#header3-w .mbr-section-title,
-#header3-w .mbr-section-subtitle {
   text-align: center;
 }
 #form1-x .form-control-label {
@@ -1017,5 +937,174 @@ h6,
   font-size: 14px;
 }
 #contacts1-10 STRONG {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#undefined .hide-buttons [data-button] {
+  display: none !important;
+}
+#undefined .nav .link,
+#undefined .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#undefined .navbar,
+#undefined .dropdown-menu {
+  background: #ffffff;
+}
+#undefined .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#undefined .dropdown-menu a:hover,
+#undefined .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#undefined .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-11 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-11 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-11 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-11 .close-icon::before,
+#ext_menu-11 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-11 .link,
+#ext_menu-11 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-11 .link {
+  font-size: 1rem;
+}
+#ext_menu-11 .dropdown-item,
+#ext_menu-11 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#ext_menu-11 .link:hover,
+#ext_menu-11 .dropdown-item:hover,
+#ext_menu-11 .link:focus,
+#ext_menu-11 .dropdown-item:focus {
+  color: #2969b0;
+}
+#ext_menu-11 .link[aria-expanded="true"],
+#ext_menu-11 .dropdown-menu {
+  background: #525252;
+}
+#ext_menu-11 .nav-dropdown-sm .link:focus,
+#ext_menu-11 .nav-dropdown-sm .link:hover,
+#ext_menu-11 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-11 .nav-dropdown-sm .dropdown-item:hover {
+  background: #646464!important;
+}
+#ext_menu-11 .navbar,
+#ext_menu-11 .nav-dropdown-sm,
+#ext_menu-11 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-11 .nav-dropdown-sm .dropdown-menu {
+  background: #6c6c6c;
+}
+#ext_menu-11 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-11 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-11 .bg-color.transparent.opened .link:hover,
+#ext_menu-11 .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#ext_menu-11 .link[aria-expanded="true"],
+#ext_menu-11 .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#header1-12 H1 {
+  font-size: 72px;
+}
+#header1-12 .mbr-section-lead {
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-12 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-12 .mbr-section-title SPAN {
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 SMALL {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+}
+#header3-13 H3 {
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 60px;
+}
+#content6-14 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
+  text-align: center;
+}
+#features1-16 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2969b0;
+}
+#features1-16 .mbr-cards-col:nth-child(odd) .card-title {
+  text-align: center;
+}
+#features1-16 .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #cccccc;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#form1-18 .form-control-label {
+  color: #efefef;
+}
+#form1-18 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  color: #efefef;
+}
+#form1-18 SMALL {
+  font-family: 'Open Sans', sans-serif;
+  color: #efefef;
+}
+#form1-18 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#footer1-19 P {
+  font-family: 'Open Sans', sans-serif;
+  color: #efefef;
+  font-size: 10px;
+}
+#contacts1-1b P {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts1-1b I {
+  font-size: 14px;
+}
+#contacts1-1b STRONG {
   font-family: 'Open Sans', sans-serif;
 }
