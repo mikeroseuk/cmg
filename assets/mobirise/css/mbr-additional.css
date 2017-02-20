@@ -601,6 +601,14 @@ h6,
 #contacts1-0 STRONG {
   font-family: 'Open Sans', sans-serif;
 }
+#header3-1p .mbr-section-title,
+#header3-1p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
 
 
 

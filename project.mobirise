@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "distribution.html",
     "versionFirst": "3.0",
     "versionPublish": "3.11.1",
     "name": "CMG Mob3",
@@ -26,7 +26,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/champion-initial-blue-128x189.png",
     "google-analytics": "",
     "cookiesAlert": "",
-    "uniqCompNum": 61,
+    "uniqCompNum": 63,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "noImageResize": ""
@@ -618,6 +618,46 @@
           "text1": "<br><br><br><br><br><br>Clare House, 166 Lord Street<br>Southport, PR9 0QA<br>United Kingdom<br>",
           "text2": "<br><br><br><br><br><br>Contact<br>E: info@champnews.com<br>T: 01704 392 392",
           "text3": "<p><br></p><br><p><br></p><p>Links<br><a href=\"http://www.champnews.com\" target=\"_blank\" class=\"text-white\">Champion Newspapers</a><br><a href=\"http://www.champlocal.co.uk\" target=\"_blank\" class=\"text-white\">ChampLocal App</a><br><a href=\"http://www.jobschampion.com\" target=\"_blank\" class=\"text-white\">Jobs Champion</a><br><a href=\"http://www.crystalbootawards.com\" target=\"_blank\" class=\"text-white\">Crystal Boot Awards</a><br><a href=\"http://www.linedancerweb.com\" target=\"_blank\" class=\"text-white\">Linedancer Web</a><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         }
       ]
     },
