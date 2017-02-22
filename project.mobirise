@@ -26,7 +26,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/champion-initial-blue-128x189.png",
     "google-analytics": "",
     "cookiesAlert": "",
-    "uniqCompNum": 64,
+    "uniqCompNum": 69,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "noImageResize": ""
@@ -346,6 +346,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -356,7 +359,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#2969b0",
             "showMeta": false
           },
           "title": "The Champion Line-up",
@@ -481,21 +484,25 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#ffffff",
+              "font-size": "24px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1q",
+          "_anchor": "header3-1s",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#2969b0",
+            "showMeta": true
           },
           "title": "",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": "CALL <b>01704 392 392</b> TODAY"
         },
         {
           "_tags": [
@@ -855,7 +862,7 @@
             "showButtons": false
           },
           "title": "Champion Design",
-          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">a creative team of talented designers awaits your project</span>",
+          "text": "<span style=\"font-style: normal;\">a creative team of talented designers awaits your project</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1053,15 +1060,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-h",
+          "_anchor": "header3-1w",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Call 01704 392 320 today",
+          "meta": "to speak to a friendly member of our Creative Team  |  <a href=\"mailto:production@champnews.com\" target=\"_blank\">CLICK HERE</a> to email the team"
         },
         {
           "_tags": [
@@ -1335,7 +1342,7 @@
             "showButtons": false
           },
           "title": "Champion Print",
-          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">we produce around 9,000,000 publications a year</span>",
+          "text": "<span style=\"font-style: normal;\">we manage the production of around 9,000,000 items a year</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1553,15 +1560,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-u",
+          "_anchor": "header3-1v",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Call 01704 392 320 today",
+          "meta": "to speak to a friendly member of our Distribution Team  |  <a href=\"mailto:production@champnews.com\" target=\"_blank\">CLICK HERE</a> to email the team"
         },
         {
           "_tags": [
@@ -1964,7 +1971,7 @@
           },
           "title1": "Audio",
           "subtitle1": "Giving your business a voice",
-          "caption1": "We can find you just the right voice or music soundtrack to perfectly accompany your presentation",
+          "caption1": "We can find you just the right voice or music soundtrack to perfectly enhance your presentations",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1980,7 +1987,7 @@
           },
           "title2": "iOS and Android Apps",
           "subtitle2": "Interact with your clients",
-          "caption2": "We have developed apps for a variety of market sectors and perfectly match our database and design skills for app development",
+          "caption2": "We have developed apps for a variety of market sectors and perfectly match our database and design skills to third party app creation",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1996,7 +2003,7 @@
           },
           "title3": "Video",
           "subtitle3": "Full in-house production facilities",
-          "caption3": "Now you can afford a high quality video presentation to promote your business online, on disk and on budget",
+          "caption3": "Now you can afford a high quality video presentation to promote your business online, <br>on disk and on budget",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -2012,7 +2019,7 @@
           },
           "title4": "Multi-platform Delivery",
           "subtitle4": "Desktop, tablet and smartphone",
-          "caption4": "Responsive website designs to maximise your message online, however it is seen by your prospective clients",
+          "caption4": "Responsive website designs to maximise your message online, in a variety of mediums to suit desktops, tablets and smartphones",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -2053,15 +2060,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-17",
+          "_anchor": "header3-1u",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Call 01704 392 320 today",
+          "meta": "to speak to a friendly member of our Creative Team  |  <a href=\"mailto:production@champnews.com\" target=\"_blank\">CLICK HERE</a> to email the team"
         },
         {
           "_tags": [
@@ -2464,7 +2471,7 @@
           },
           "title1": "Delivering your message",
           "subtitle1": "to more homes",
-          "caption1": "We have more than 800 delivery agents to ensure saturation coverage of our area",
+          "caption1": "We have more than 800 delivery agents <br>to ensure saturation coverage of our area",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -2480,7 +2487,7 @@
           },
           "title2": "Amazing coverage",
           "subtitle2": "throughout Sefton and West Lancashire",
-          "caption2": "We deliver to over<br>160,000 homes every week of the year",
+          "caption2": "We expertly deliver to over<br>160,000 homes every week of the year",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -2553,15 +2560,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1i",
+          "_anchor": "header3-1t",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Call 01704 392 345 today",
+          "meta": "to speak to a friendly member of our Distribution Team &nbsp;| &nbsp;<a href=\"mailto:distribution@champnews.com\" target=\"_blank\">CLICK HERE</a> to email the team"
         },
         {
           "_tags": [
