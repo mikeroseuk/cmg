@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "print.html",
+    "currentPage": "digital.html",
     "versionFirst": "3.0",
     "versionPublish": "3.11.1",
     "name": "CMG Mob3",
@@ -1341,8 +1341,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Champion Digital Services",
-          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">digital publications, online delivery and audio visual presentations</span>",
+          "title": "Champion Digital",
+          "text": "<span style=\"font-style: normal;\"><br>digital and online publications</span><br><span style=\"font-style: normal;\">professional audio visual presentations</span><br><span style=\"font-style: normal;\">video production</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1842,7 +1842,7 @@
             "showButtons": false
           },
           "title": "Champion Distribution",
-          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">unparalleled door-to-door deliveries</span>",
+          "text": "<span style=\"font-style: normal;\">unparalleled door-to-door deliveries</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -3011,7 +3011,7 @@
             "showButtons": false
           },
           "title": "Champion Print",
-          "text": "<span style=\"font-style: normal;\">we manage the production of around 9 million items a year</span>",
+          "text": "<span style=\"font-style: normal;\">we manage the production of around <br>9 million items a year</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
