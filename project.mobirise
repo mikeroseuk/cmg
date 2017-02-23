@@ -3082,7 +3082,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/a-sized-stickers-2000x1218-800x487.png",
                 "image": "@PROJECT_PATH@/assets/images/a-sized-stickers-2000x1218.png",
-                "caption": "Type caption here",
+                "caption": "Self adhesive labels",
                 "active": false
               },
               {
@@ -3092,7 +3092,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/business-starter-kit-2000x1384-800x553.png",
                 "image": "@PROJECT_PATH@/assets/images/business-starter-kit-2000x1384.png",
-                "caption": "Type caption here",
+                "caption": "Stationery Packages",
                 "active": false
               },
               {
@@ -3102,7 +3102,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/feature-rewards-2000x1247-800x498.png",
                 "image": "@PROJECT_PATH@/assets/images/feature-rewards-2000x1247.png",
-                "caption": "Type caption here",
+                "caption": "Magazines, catalogues and bound publications",
                 "active": false
               },
               {
@@ -3112,7 +3112,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/folded-leaflets-2000x1403-800x561.png",
                 "image": "@PROJECT_PATH@/assets/images/folded-leaflets-2000x1403.png",
-                "caption": "Type caption here",
+                "caption": "Leaflets and flyers",
                 "active": false
               },
               {
@@ -3122,7 +3122,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/indoor-posters-2000x1297-800x518.png",
                 "image": "@PROJECT_PATH@/assets/images/indoor-posters-2000x1297.png",
-                "caption": "Type caption here",
+                "caption": "Posters and large format print",
                 "active": true
               },
               {
@@ -3132,7 +3132,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/menus-2000x1417-800x566.png",
                 "image": "@PROJECT_PATH@/assets/images/menus-2000x1417.png",
-                "caption": "Type caption here",
+                "caption": "Folded leaflets and menus",
                 "active": false
               },
               {
@@ -3142,12 +3142,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/postcards-2000x1142-800x456.png",
                 "image": "@PROJECT_PATH@/assets/images/postcards-2000x1142.png",
-                "caption": "Type caption here",
+                "caption": "Postcards",
                 "active": false
               }
             ],
             "spacing": 0,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
