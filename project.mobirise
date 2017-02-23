@@ -3123,17 +3123,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/indoor-posters-2000x1297-800x518.png",
                 "image": "@PROJECT_PATH@/assets/images/indoor-posters-2000x1297.png",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/leaflets-and-flyers-2000x2360-800x944.png",
-                "image": "@PROJECT_PATH@/assets/images/leaflets-and-flyers-2000x2360.png",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -3150,60 +3140,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/outdoor-posters-2000x2065-800x826.png",
-                "image": "@PROJECT_PATH@/assets/images/outdoor-posters-2000x2065.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pop-up-stands-2000x1525-800x610.png",
-                "image": "@PROJECT_PATH@/assets/images/pop-up-stands-2000x1525.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/postcards-2000x1142-800x456.png",
                 "image": "@PROJECT_PATH@/assets/images/postcards-2000x1142.png",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/presentation-folders-2000x1302-800x520.png",
-                "image": "@PROJECT_PATH@/assets/images/presentation-folders-2000x1302.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rectangular-stickers-2000x991-800x396.png",
-                "image": "@PROJECT_PATH@/assets/images/rectangular-stickers-2000x991.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/strut-cards-2000x1258-800x503.png",
-                "image": "@PROJECT_PATH@/assets/images/strut-cards-2000x1258.png",
-                "caption": "Type caption here",
-                "active": true
               }
             ],
             "spacing": 0,
