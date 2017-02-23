@@ -3080,8 +3080,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a-sized-stickers-2000x1218-800x487.png",
-                "image": "@PROJECT_PATH@/assets/images/a-sized-stickers-2000x1218.png",
+                "thumb": "@PROJECT_PATH@/assets/images/a-sized-stickers-2000x1267-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/a-sized-stickers-2000x1267.png",
                 "caption": "Self adhesive labels",
                 "active": false
               },
@@ -3090,8 +3090,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/business-starter-kit-2000x1384-800x553.png",
-                "image": "@PROJECT_PATH@/assets/images/business-starter-kit-2000x1384.png",
+                "thumb": "@PROJECT_PATH@/assets/images/business-starter-kit-2000x1267-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/business-starter-kit-2000x1267.png",
                 "caption": "Stationery Packages",
                 "active": false
               },
@@ -3100,8 +3100,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feature-rewards-2000x1247-800x498.png",
-                "image": "@PROJECT_PATH@/assets/images/feature-rewards-2000x1247.png",
+                "thumb": "@PROJECT_PATH@/assets/images/feature-rewards-2000x1267-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/feature-rewards-2000x1267.png",
                 "caption": "Magazines, catalogues and bound publications",
                 "active": false
               },
@@ -3110,8 +3110,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/folded-leaflets-2000x1403-800x561.png",
-                "image": "@PROJECT_PATH@/assets/images/folded-leaflets-2000x1403.png",
+                "thumb": "@PROJECT_PATH@/assets/images/folded-leaflets-2000x1267-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/folded-leaflets-2000x1267.png",
                 "caption": "Leaflets and flyers",
                 "active": false
               },
@@ -3120,18 +3120,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/indoor-posters-2000x1297-800x518.png",
-                "image": "@PROJECT_PATH@/assets/images/indoor-posters-2000x1297.png",
+                "thumb": "@PROJECT_PATH@/assets/images/indoor-posters-2000x1267-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/indoor-posters-2000x1267.png",
                 "caption": "Posters and large format print",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/menus-2000x1417-800x566.png",
-                "image": "@PROJECT_PATH@/assets/images/menus-2000x1417.png",
+                "thumb": "@PROJECT_PATH@/assets/images/menus-2000x1267-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/menus-2000x1267.png",
                 "caption": "Folded leaflets and menus",
                 "active": false
               },
@@ -3140,10 +3140,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/postcards-2000x1142-800x456.png",
-                "image": "@PROJECT_PATH@/assets/images/postcards-2000x1142.png",
+                "thumb": "@PROJECT_PATH@/assets/images/postcards-2000x1267-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/postcards-2000x1267.png",
                 "caption": "Postcards",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/large-format-2000x1267-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/large-format-2000x1267.png",
+                "caption": "48 and 96 sheet posters",
+                "active": true
               }
             ],
             "spacing": 0,
