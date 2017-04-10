@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "distribution.html",
+    "currentPage": "index.html",
     "versionFirst": "3.0",
     "versionPublish": "3.11.1",
     "name": "CMG Mob3",
@@ -370,6 +370,12 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -421,7 +427,7 @@
             }
           },
           "title": "NEWSPAPERS",
-          "text": "<b><a href=\"newspapers.html\" class=\"text-white\">The Champion Newspaper Series</a><br></b><a href=\"newspapers.html\" class=\"text-white\"><b><br></b></a>Since 1994 we have produced an ever-growing &nbsp;series of qualty free newspapers, serving the residents of Sefton, North Liverpool and West Lancashire.<br><br>Over 160,000 copies are delivered every week in eight editions: Southport &amp; Formby, Ormskirk &amp; Skelmersdale, Crosby &amp; Litherland, Bootle, Aintree &amp; Maghull and Anfield &amp; Walton.<br>",
+          "text": "<b><a href=\"newspapers.html\" class=\"text-white\">The Champion Newspaper Series</a><br></b><a href=\"newspapers.html\" class=\"text-white\"><b><br></b></a>Since 1994 we have produced an ever-growing &nbsp;series of qualty free newspapers, serving the residents of Sefton, North Liverpool and<br>West Lancashire.<br><br>Over 160,000 copies are delivered every week in eight editions: Southport &amp; Formby, Ormskirk &amp; Skelmersdale, Crosby &amp; Litherland, Bootle, Aintree &amp; Maghull and Anfield &amp; Walton.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3215,13 +3221,13 @@
                 "active": true
               }
             ],
-            "spacing": 0,
-            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": true,
+            "spacing": 0,
+            "showText": true
           },
           "_anchor": "gallery1-2k",
           "articleLayout": false,

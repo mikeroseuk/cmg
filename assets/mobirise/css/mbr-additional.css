@@ -564,6 +564,12 @@ h6,
 #msg-box6-2m .lead p {
   color: #fff;
 }
+#msg-box6-2m H3 {
+  color: #ffffff;
+}
+#msg-box6-2m P {
+  color: #ffffff;
+}
 #features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2969b0;
 }
