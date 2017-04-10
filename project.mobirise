@@ -163,7 +163,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": false,
             "collapsed": true,
@@ -3156,13 +3156,13 @@
                 "active": true
               }
             ],
+            "spacing": 0,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true,
-            "spacing": 0,
-            "showText": true
+            "showBullets": true
           },
           "_anchor": "gallery1-2k",
           "articleLayout": false,
