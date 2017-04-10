@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "print.html",
     "versionFirst": "3.0",
     "versionPublish": "3.11.1",
     "name": "CMG Mob3",
@@ -3221,13 +3221,13 @@
                 "active": true
               }
             ],
-            "spacing": 0,
-            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": true,
+            "spacing": 0,
+            "showText": true
           },
           "_anchor": "gallery1-2k",
           "articleLayout": false,
@@ -3307,7 +3307,7 @@
           },
           "title1": "Newspapers and Magazines",
           "subtitle1": "Our speciality",
-          "caption1": "We produce over 160,000 newspapers across eight editions every week of the year and can produce your publications too",
+          "caption1": "We produce over 160,000 newspapers across <br>eight editions every week of the year and we can produce your publications too.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -3323,7 +3323,7 @@
           },
           "title2": "Quality and Consistency",
           "subtitle2": "Taking care of your image",
-          "caption2": "From the humble compliments slip to your brochures and catalogues, affordable quality print is vital",
+          "caption2": "From the humble compliments slip and letterhead to your full impact brochures and catalogues, affordable quality print is vital.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -3338,8 +3338,8 @@
             }
           },
           "title3": "Print and Finishing",
-          "subtitle3": "Full in-house production facilities",
-          "caption3": "More affordable options working with established print partners that we have worked with for years<br>",
+          "subtitle3": "Amazing production facilities",
+          "caption3": "We bring you more affordable options working <br>with established print partners that we have cooperated with for many years.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
