@@ -511,7 +511,7 @@
           "title2": "DELIVER",
           "subtitle2": "<span style=\"font-style: normal;\">Competitively priced<br>print management</span>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"distribution.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"print.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
@@ -3221,13 +3221,13 @@
                 "active": true
               }
             ],
+            "spacing": 0,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true,
-            "spacing": 0,
-            "showText": true
+            "showBullets": true
           },
           "_anchor": "gallery1-2k",
           "articleLayout": false,
