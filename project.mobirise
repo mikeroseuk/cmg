@@ -397,7 +397,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -427,7 +427,7 @@
             }
           },
           "title": "NEWSPAPERS",
-          "text": "<b><a href=\"newspapers.html\" class=\"text-white\">The Champion Newspaper Series</a><br></b><a href=\"newspapers.html\" class=\"text-white\"><b><br></b></a>Since 1994 we have produced an ever-growing &nbsp;series of qualty free newspapers, serving the residents of Sefton, North Liverpool and<br>West Lancashire.<br><br>Over 160,000 copies are delivered every week in eight editions: Southport &amp; Formby, Ormskirk &amp; Skelmersdale, Crosby &amp; Litherland, Bootle, Aintree &amp; Maghull and Anfield &amp; Walton.<br>",
+          "text": "<b><a href=\"newspapers.html\" class=\"text-white\">The Champion Newspaper Series</a><br></b><a href=\"newspapers.html\" class=\"text-white\"><b><br></b></a><b>Since 1994 we have produced an ever-growing &nbsp;series of qualty free newspapers, serving the residents of Sefton, North Liverpool and&nbsp;West Lancashire.<br><br>Over 160,000 copies are delivered every week in eight editions: Southport &amp; Formby, Ormskirk &amp; Skelmersdale, Crosby &amp; Litherland, Bootle, Aintree &amp; Maghull and Anfield &amp; Walton.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
