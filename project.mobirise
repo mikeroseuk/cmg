@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "distribution.html",
     "versionFirst": "3.0",
     "versionPublish": "3.11.1",
     "name": "CMG Mob3",
@@ -26,7 +26,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/champion-initial-blue-128x189.png",
     "google-analytics": "",
     "cookiesAlert": "",
-    "uniqCompNum": 93,
+    "uniqCompNum": 95,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "noImageResize": ""
@@ -366,6 +366,65 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-2m",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/o-newspaper-facebook-2000x1000.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x939.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "NEWSPAPERS",
+          "text": "<b><a href=\"newspapers.html\" class=\"text-white\">The Champion Newspaper Series</a><br></b><a href=\"newspapers.html\" class=\"text-white\"><b><br></b></a>Since 1994 we have produced an ever-growing &nbsp;series of qualty free newspapers, serving the residents of Sefton, North Liverpool and West Lancashire.<br><br>Over 160,000 copies are delivered every week in eight editions: Southport &amp; Formby, Ormskirk &amp; Skelmersdale, Crosby &amp; Litherland, Bootle, Aintree &amp; Maghull and Anfield &amp; Walton.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -430,7 +489,7 @@
           "title1": "DESIGN",
           "subtitle1": "<span style=\"font-style: normal;\">A creative team <br>of talented designers</span>",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"design.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
@@ -446,7 +505,7 @@
           "title2": "DELIVER",
           "subtitle2": "<span style=\"font-style: normal;\">Competitively priced<br>print management</span>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"distribution.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
@@ -462,7 +521,7 @@
           "title3": "DIGITAL",
           "subtitle3": "<span style=\"font-style: normal;\">Creative thinking<br>in any medium</span>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"digital.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x393.jpg",
@@ -478,7 +537,7 @@
           "title4": "DISTRIBUTE",
           "subtitle4": "<span style=\"font-style: normal;\">Unparalleled<br>door to door deliveries</span>",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"distribution.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -1894,8 +1953,8 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text1": "<p>With a wide variety of skills within CMG we are able to provide the help and support your business needs.</p><p><br></p><p>Our army of foot soldiers brave all elements to consistently deliver to all of our homes every week.</p>",
-          "text2": "<p>&nbsp;Ensuring your message is seen by the largest potential audience, we pride ourselves on delivering your message everytime.</p><p><br></p><p><span style=\"line-height: 1.5;\">Maximum homes at attractive rates.</span></p><p><span style=\"line-height: 1.5;\">We are with you every step of the way.</span></p>"
+          "text1": "<p>With a wide variety of skills within CMG we are able to provide the help and support your business needs.</p><p><br></p><p>Our army of over 800 foot soldiers brave all weathers to consistently deliver to all of our 160,000+ homes every week.</p>",
+          "text2": "<p>Ensuring your message is seen by the largest potential audience, we pride ourselves on delivering your message everytime.</p><p><br></p><p><span style=\"line-height: 1.5;\">Maximum homes at attractive rates delivering your leaflets, flyers and brochures.&nbsp;</span><span style=\"line-height: 1.5;\">We are with you every step of the way.</span></p>"
         },
         {
           "_styles": {
@@ -1971,7 +2030,7 @@
           },
           "title1": "Delivering your message",
           "subtitle1": "to more homes",
-          "caption1": "We have more than 800 delivery agents <br>to ensure saturation coverage of our area",
+          "caption1": "We have more than 800 delivery agents&nbsp;to ensure saturation coverage of our extensive area getting your leaflets to your audience.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1987,7 +2046,7 @@
           },
           "title2": "Amazing coverage",
           "subtitle2": "throughout Sefton and West Lancashire",
-          "caption2": "We expertly deliver to over<br>160,000 homes every week of the year",
+          "caption2": "We expertly deliver around&nbsp;NINE MILLION items every year&nbsp;to more than 160,000 homes every week and take great care when delivering your message.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -2003,7 +2062,7 @@
           },
           "title3": "Delivery choices",
           "subtitle3": "Shared or solus deliveries",
-          "caption3": "You can choose between having your message delivered with our newspaper titles or exclusively on their own",
+          "caption3": "You can choose between having your leaflets, flyers and brochures delivered with our newspaper titles or exclusively on their own.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {

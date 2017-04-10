@@ -560,6 +560,10 @@ h6,
 #header3-1r H3 {
   color: #ffffff;
 }
+#msg-box6-2m .mbr-section-title,
+#msg-box6-2m .lead p {
+  color: #fff;
+}
 #features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2969b0;
 }
